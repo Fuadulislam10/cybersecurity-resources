@@ -1,14 +1,18 @@
-## Your GitHub Learning Lab Repository for Intro to HTML
-
-Welcome to your repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
-
-Oh! I haven't introduced myself...
-
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
-
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
-
-I'll meet you over there, can't wait to get started!
-
-This repository is licensed under [MIT](LICENSE) (c) 2019 GitHub, Inc.
-Photo by [Kelli Tungay](https://unsplash.com/photos/Sj0nhVIb4eY) on [Unsplash](https://unsplash.com/)
+cybersecurity-resources/
+├── README.md                 # Overview of the repository
+├── LICENSE                   # License for open-source use
+├── docs/                     # Documentation and guides
+│   ├── introduction.md       # Overview of cybersecurity basics
+│   ├── network_security.md   # Guide on network security fundamentals
+│   ├── web_security.md       # Guide on web application security
+├── tutorials/                # Hands-on tutorials and walkthroughs
+│   ├── pentesting_basics.md  # Basic penetration testing tutorial
+│   ├── malware_analysis.md   # Introductory malware analysis guide
+│   ├── threat_modeling.md    # Guide to threat modeling
+├── tools/                    # Custom or open-source tools/scripts
+│   ├── port_scanner.py       # Basic port scanner script
+│   ├── password_cracker.py   # Simple password cracking script (educational)
+└── resources/                # External resources, cheat sheets, and links
+    ├── books.md              # Recommended cybersecurity books
+    ├── courses.md            # Online courses and certifications
+    ├── websites.md           # Useful websites and communities
